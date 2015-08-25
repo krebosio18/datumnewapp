@@ -192,5 +192,57 @@
 					"nombre":"Cumplimiento de lo ofrecido",
 					"file": "graficos/pie/grafico19.html"
 				}]
+			},
+		{
+			"id":3,
+			"nombre":"Tema de Fondo",
+			"data":[{
+					"orden":1,
+					"nombre":"NOTA ATRIBUIDA A INSTITUCIONES",
+					"file": "graficos/columna/grafico9.html"
+				},
+				{
+					"orden":2,
+					"nombre":"EVOLUCIÓN DE LAS NOTAS ATRIBUIDAS A INSTITUCIONES",
+					"file": "graficos/barra/grafico5.html"
+				}]
+			},
+		{
+			"id":4,
+			"nombre":"Electoral",
+			"data":[{
+					"orden":1,
+					"nombre":"Evolución de la intención de voto presidencial para el 2016",
+					"file": "graficos/lineal/grafico7.html"
+				}]
+			},
+		{
+			"id":5,
+			"nombre":"Economía",
+			"data":[{
+					"orden":26,
+					"nombre":"Labor del Congreso con Luis Iberico",
+					"file": "graficos/pie/grafico16.html"
+				},
+				{
+					"orden":27,
+					"nombre":"Relación: Congreso - Gobierno",
+					"file": "graficos/pie/grafico17.html"
+				},
+				{
+					"orden":28,
+					"nombre":"Conocimiento del mensaje presidencial",
+					"file": "graficos/columna/grafico8.html"
+				},
+				{
+					"orden":29,
+					"nombre":"Percepción del mensaje presidencial ",
+					"file": "graficos/pie/grafico18.html"
+				},
+				{
+					"orden":30,
+					"nombre":"Cumplimiento de lo ofrecido",
+					"file": "graficos/pie/grafico19.html"
+				}]
 			}]
 }
